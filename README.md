@@ -1,1 +1,2 @@
-# arch test test
+# antergos
+# dotfiles

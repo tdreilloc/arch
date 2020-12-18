@@ -1,0 +1,60 @@
+## Termite Styling Program
+## Author : Aditya Shakya
+
+[options]
+
+allow_bold = true
+audible_bell = true
+browser = firefox
+clickable_url = true
+cursor_blink = system
+cursor_shape = block
+dynamic_title = true
+filter_unmatched_urls = true
+font = Iosevka Nerd Font 10
+geometry = 480x280
+icon_name = terminal
+modify_other_keys = false
+mouse_autohide = false
+scroll_on_output = false
+scroll_on_keystroke = true
+scrollback_lines = 15000
+size_hints = false
+search_wrap = true
+urgent_on_bell = true
+highlight = #30343e
+
+[colors]
+
+# https://draculatheme.com/
+# https://github.com/dracula/xresources/blob/master/Xresources
+# special
+foreground=#C4C7C5
+cursor=#f8f8f2
+background=#212B30
+# black
+color0=#212B30
+color8=#6D8895
+# red
+color1=#EC7875
+color9=#
+# green
+color2=#61C766
+color10=#61C766
+# yellow
+color3=#FBC02D
+color11=#FDD835
+# blue
+color4=#42A5F5
+color12=#42A5F5
+# magenta
+color5=#ff79c6
+color13=#ff92d0
+# cyan
+color6=#4DD0E1
+color14=#4DD0E1
+# white
+color7=#bfbfbf
+color15=#e6e6e6
+
+
